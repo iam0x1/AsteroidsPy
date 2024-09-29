@@ -1,3 +1,4 @@
+Stop this project for another time
 # AsteroidsPy
 simple video game, based on the classic Asteroids.
 
